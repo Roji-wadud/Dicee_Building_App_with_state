@@ -1,4 +1,4 @@
-# Diee
+# Dicee
 
 A Flutter project.
 
